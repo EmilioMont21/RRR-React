@@ -1,8 +1,19 @@
-Proyecto de reciclaje 
+# Proyecto Reciclaje en React
+Landing Page con datos curiosos sobre el reciclaje, ventajas y puntos marcados en un servicio de google maps donde se veran "sitios disponibles para reciclar"
 
-Proyecto realizado en react con la finalidad de aprender a utilizar react
+El fin de la aplicacion no es nada mas para enseñar las funcionalidades de React y algunas librerias
 
-React 
+## Project setup
+```
+yarn 
+```
 
-instalar dependencias: npm i
+### Compiles and hot-reloads for development
+```
+yarn stat
+```
 
+### Compiles and minifies for production
+```
+yarn build
+```
