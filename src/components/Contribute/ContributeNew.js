@@ -14,7 +14,6 @@ function ContributeNew() {
   }, []);
 
 
-
   return (
     <div>
       <Container fluid className="resume-section">
@@ -27,7 +26,7 @@ function ContributeNew() {
         </Row>
 
         <Row className="resume">
-          <Document file={''} className="d-flex justify-content-center">
+          <Document file={""} className="d-flex justify-content-center">
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
         </Row>
